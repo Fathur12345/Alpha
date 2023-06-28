@@ -1,21 +1,3 @@
-/**
-  // No Re Upload, recode sendiri base nya klo mau 😏
-  // Sc no enc silahkan cek https://github.com/zeeoneofficial/example-case
- 
-	 「 TqTo 」
-  // My God
-  // My Parents
-  // Fatih A.
-  // Ferdiz
-  // DikaArdnt [author]
-  // Mhankbarbar
-  // Nurutomo
-  // ZeeoneOfc
-  // Penyedia Module
-  // And All Support
-  **/
-
-
 require('./settings')
 const {
    default: makeWASocket,
